@@ -1,5 +1,6 @@
 # Event-Reservation-System
-Multi-threaded Event Reservation System with pthreads
+A multi-threaded event reservation system in C using pthreads, ensuring data consistency with concurrent query
+limits and mutual exclusion for seat availability, booking, and cancellation.
 
 Problem Statement :
 Write a multi-threaded Event-reservation system for the Nehru Centre.
